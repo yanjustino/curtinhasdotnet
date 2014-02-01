@@ -1,0 +1,10 @@
+C:\Users\yanjustino\Documents\Visual Studio 2013\Projects\CurtinhasDotNet\EFAsNoTrack\EFAsNoTrack\bin\Debug\EFAsNoTrack.exe.config
+C:\Users\yanjustino\Documents\Visual Studio 2013\Projects\CurtinhasDotNet\EFAsNoTrack\EFAsNoTrack\bin\Debug\EFAsNoTrack.exe
+C:\Users\yanjustino\Documents\Visual Studio 2013\Projects\CurtinhasDotNet\EFAsNoTrack\EFAsNoTrack\bin\Debug\EFAsNoTrack.pdb
+C:\Users\yanjustino\Documents\Visual Studio 2013\Projects\CurtinhasDotNet\EFAsNoTrack\EFAsNoTrack\bin\Debug\EntityFramework.dll
+C:\Users\yanjustino\Documents\Visual Studio 2013\Projects\CurtinhasDotNet\EFAsNoTrack\EFAsNoTrack\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yanjustino\Documents\Visual Studio 2013\Projects\CurtinhasDotNet\EFAsNoTrack\EFAsNoTrack\bin\Debug\EntityFramework.xml
+C:\Users\yanjustino\Documents\Visual Studio 2013\Projects\CurtinhasDotNet\EFAsNoTrack\EFAsNoTrack\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yanjustino\Documents\Visual Studio 2013\Projects\CurtinhasDotNet\EFAsNoTrack\EFAsNoTrack\obj\Debug\EFAsNoTrack.csprojResolveAssemblyReference.cache
+C:\Users\yanjustino\Documents\Visual Studio 2013\Projects\CurtinhasDotNet\EFAsNoTrack\EFAsNoTrack\obj\Debug\EFAsNoTrack.exe
+C:\Users\yanjustino\Documents\Visual Studio 2013\Projects\CurtinhasDotNet\EFAsNoTrack\EFAsNoTrack\obj\Debug\EFAsNoTrack.pdb
